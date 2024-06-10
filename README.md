@@ -1,2 +1,2 @@
 # Snakes-and-Ladders
-Snakes and ladders with different constraints 
+Snakes and ladders implementation for machine coding assessment with different constraints 
